@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuyQuang3103
-- 👀 I’m interested in #DataAnalytics #Marketing #Branding
+- 👀 I’m interested in #DataAnalytics #BusinessAnalytics
 - 🌱 I’m currently learning Power Bi, data visualization, self-authorization
 - 💞️ I’m looking to collaborate on Data analysis project, data visualization, EDA
 - 📫 How to reach me gmail: nhdquang310300@gmail.com
